@@ -24,6 +24,7 @@
 		1330DA9A2586648E00308D81 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1330DA9D2586648E00308D81 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1330DA9F2586648E00308D81 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1330DAA5258664C000308D81 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = MyPlayground.playground; path = "../../Library/Autosave Information/MyPlayground.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 		1330DA852586648A00308D81 = {
 			isa = PBXGroup;
 			children = (
+				1330DAA5258664C000308D81 /* MyPlayground.playground */,
 				1330DA902586648A00308D81 /* eggplant-brownie */,
 				1330DA8F2586648A00308D81 /* Products */,
 			);
